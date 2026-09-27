@@ -2,4 +2,4 @@
 let url = location.herf;
 let len = url.length;
 
-alert("The length of the URL is: " ,len);
+alert("The length of the URL is: "+len);
